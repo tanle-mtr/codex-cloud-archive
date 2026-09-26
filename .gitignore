@@ -1,0 +1,11 @@
+# 忽略本地敏感/生成数据
+~/.codex/
+~/.codex-sync/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.env
+config.yaml
+# 系统文件
+Thumbs.db
+Desktop.ini
